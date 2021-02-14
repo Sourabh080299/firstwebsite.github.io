@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(39, 36, 36);
+}
+.slider{
+    width: 80%;
+    height: 500px;
+    background-color: aqua;
+    margin:100px;
+
+}
+.cards{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
